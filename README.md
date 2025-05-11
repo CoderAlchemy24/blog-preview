@@ -5,7 +5,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
+  
   - [Screenshot](#screenshot)
   - [Links](#links)
 
@@ -22,13 +22,13 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/CoderAlchemy24/blog-preview.git/](https://github.com/CoderAlchemy24/blog-preview.git)
+- Live Site URL: [https://frme-blog-preview.netlify.app/](https://frme-blog-preview.netlify.app/)
 
 
 ## Author
 
-- Website - [@CoderAlchemy24](https://www.your-site.com)
+- Website - [@CoderAlchemy24](https://github.com/CoderAlchemy24/blog-preview.git)
 
 
 
